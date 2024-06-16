@@ -1,0 +1,2 @@
+// layout base default -> animation, sound because this is using astro
+// layout lobby only
